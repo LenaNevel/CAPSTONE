@@ -1,3 +1,6 @@
+# WORK IS IN PROGRESS
+
+
 # Capstone: Can we predict price of a skin care product based on it's ingredients?
 
 ## Table of Contents
@@ -21,11 +24,15 @@
     ├── 02_getting_products_data.ipynb
     ├── 03_cleaning_data.ipynb
     ├── 04_eda.ipynb
+    ├── 05_fuzzywuzzy_string_matching.ipynb
+    ├── 06_jaro_string_matching.ipynb
+    ├── 07_raw_modeling.ipynb
     ├── data
         ├── product_info.csv
         ├── product_urls.csv
         ├── product_urls2.csv
         ├── products_clean.csv
+        ├── products_clean_eda.csv
         ├── soups
     ├── plots
         ├── category_comparison.png
